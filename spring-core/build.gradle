@@ -1,0 +1,6 @@
+bootJar { enabled = false }
+jar { enabled = true }
+
+dependencies {
+    api 'org.msgpack:msgpack-core:0.9.3'
+}
